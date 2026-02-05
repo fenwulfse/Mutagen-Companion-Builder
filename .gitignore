@@ -1,0 +1,16 @@
+# .NET Build Artifacts
+[Bb]in/
+[Oo]bj/
+*.exe
+*.dll
+*.pdb
+
+# Mutagen / Fallout 4 Artifacts
+*.esp
+*.bak
+EditorWarnings.txt
+
+# IDE Settings
+.vs/
+.vscode/
+.idea/
